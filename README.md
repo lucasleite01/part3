@@ -154,3 +154,5 @@ python create-event.py
 
 And to see the new event that was created, let's run the `quickstart.py` again:
 ![enable api](gif/9.gif)
+
+We have done a great work! Fell free to improve your code and add more functionalities. Have fun!
